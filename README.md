@@ -25,11 +25,11 @@
 <div style="display: inline_block" align="center">
   <img alt="html" height="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />
   <img alt="css" height="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" /> 
-  <img alt="js" height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
-  <img alt="cypress" height="50" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Cypress.svg">
+  <img alt="js" height="45" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
+  <img alt="cypress" height="45" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Cypress.svg">
   <img alt="python" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img alt="git" height="45" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />
-  <img alt="postman" height="50" src="https://github.com/gui-bus/TechIcons/raw/main/Dark/Postman.svg" />
+  <img alt="postman" height="45" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" />
   <!---  <img align="center" alt="gabdev95-bootstrap" height="42" width="42" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" />
   <img align="center" alt="gabdev95-wordpress" height="45" width="45" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/wordpress_logo_icon_167953.png" />
  <!---  <img align="center" alt="gabdev95-angular" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />-->
